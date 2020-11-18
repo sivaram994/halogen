@@ -3,4 +3,8 @@ welcome to my wolrd.
 this is sivaramireddy koduri, learning git.
 This is to learn git rebase conflict.
 adding new lines to get to know about rebase.
+<<<<<<< Updated upstream
 adding line for urgent commits
+=======
+learning git stash
+>>>>>>> Stashed changes
